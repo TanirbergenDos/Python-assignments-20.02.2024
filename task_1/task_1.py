@@ -2,7 +2,6 @@ from openpyxl import Workbook
 from string import ascii_lowercase
 from random import choice, randint
 from datetime import date, datetime
-from shutil import move
 
 
 # Create a randomly generated name
